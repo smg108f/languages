@@ -1,0 +1,112 @@
+language,type,global-speakers,parent-language
+American English (en-US),living,350M,British English (en-GB)
+British English (en-GB),living,68M,Old English
+Indian English (en-IN),living,130M,British English (en-GB)
+Nigerian English (en-NG),living,90M,British English (en-GB)
+Philippine English (en-PH),living,60M,American English (en-US)
+Australian English (en-AU),living,17M,British English (en-GB)
+Canadian English (en-CA),living,20M,American English (en-US)
+"Castellano (Castilian, es-ES)",living,47M,Latin
+"Español (Spanish, es-MX)",living,125M,Spanish (Spain) (es-ES)
+Argentine Spanish (es-AR),living,44M,Spanish (Spain) (es-ES)
+European Portuguese (pt-PT),living,10M,Latin
+Brazilian Portuguese (pt-BR),living,215M,Portuguese (Portugal) (pt-PT)
+"Français (French, fr-FR)",living,68M,Latin
+Canadian French (fr-CA),living,10M,French (France) (fr-FR)
+"Deutsch (German, de-DE)",living,95M,Old High German
+Austrian German (de-AT),living,9M,German (Germany) (de-DE)
+"官话 (Mandarin, cmn-CN)",living,1.14B,Old Chinese
+"廣東話 (Cantonese, yue-CN)",living,86M,Old Chinese
+"吳語 (Wu, wuu-CN)",living,83M,Old Chinese
+"閩南語 (Min Nan, nan-CN)",living,50M,Old Chinese
+"湘语 (Xiang, hsn-CN)",living,38M,Old Chinese
+"客家话 (Hakka, hak-CN)",living,44M,Old Chinese
+"赣语 (Gann, gan-CN)",living,22M,Old Chinese
+Modern Standard Arabic (arb),living,335M,Classical Arabic
+Egyptian Arabic (arz),living,102M,Classical Arabic
+North Levantine Arabic (apc),living,32M,Classical Arabic
+Moroccan Arabic (ary),living,29M,Classical Arabic
+Mesopotamian Arabic (acm),living,21M,Classical Arabic
+Sudanese Arabic (apd),living,40M,Classical Arabic
+Najdi Arabic (ars),living,12M,Classical Arabic
+Tunisian Arabic (aeb),living,12M,Classical Arabic
+Sanaani Arabic (ayn),living,14M,Classical Arabic
+Palestinian Arabic (ar-PS),living,5M,Classical Arabic
+"हिन्दी (Hindi, hi-IN)",living,610M,Sanskrit
+"বাংলা (Bengali, bn)",living,273M,Sanskrit
+"русский (Russian, ru-RU)",living,255M,Old East Slavic
+"日本語 (Japanese, ja-JP)",living,123M,Old Japanese
+"मराठी (Marathi, mr-IN)",living,99M,Sanskrit
+"Tiếng Việt (Vietnamese, vi-VN)",living,85M,Proto-Vietic
+"తెలుగు (Telugu, te-IN)",living,96M,Proto-Dravidian
+Western Punjabi (pnb-PK),living,94M,Sanskrit
+"Türkçe (Turkish, tr-TR)",living,88M,Old Anatolian Turkish
+"தமிழ் (Tamil, ta)",living,86M,Old Tamil
+Korean (ko-KR),living,82M,Old Korean
+"اُرْدُو (Urdu, ur)",living,70M,Sanskrit
+"Farsi (Persian, fa)",living,78M,Old Persian
+"ꦧꦱꦗꦮ  (Javanese, jv)",living,68M,Proto-Malayo-Polynesian
+"italiano (Italian, it-IT)",living,68M,Latin
+"ગુજરાતી (Gujarati, gu-IN)",living,62M,Sanskrit
+"ಕನ್ನಡ (Kannada, kn-IN)",living,59M,Proto-Dravidian
+"भोजपुरी  (Bhojpuri, bho)",living,52M,Sanskrit
+Hausa (ha),living,80M,Proto-Chadic
+"українська (Ukrainian, uk-UA)",living,33M,Old East Slavic
+"മലയാളം (Malayalam, ml-IN)",living,38M,Proto-Dravidian
+"ଓଡ଼ିଆ (Odia, or-IN)",living,38M,Sanskrit
+"𑂧𑂶𑂟𑂱𑂪𑂲 (Maithili, mai)",living,34M,Sanskrit
+"မြန်မာဘာသာစကား (Burmese, my-MM)",living,33M,Old Burmese
+Sindhi (sd-PK),living,32M,Sanskrit
+Uzbek (uz-UZ),living,34M,Old Turkic
+Malay (ms-MY),living,33M,Proto-Malayo-Polynesian
+Indonesian (id-ID),living,199M,Malay (Malaysia) (ms-MY)
+"አማርኛ (Amharic, am-ET)",living,32M,Ge'ez
+Igbo (ig-NG),living,27M,Proto-Igboid
+"ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔ (Tagalog, tl-PH)",living,45M,Proto-Philippine
+"नेपाली (Nepali, ne-NP)",living,32M,Sanskrit
+Saraiki (skr-PK),living,26M,Sanskrit
+Cebuano (ceb-PH),living,21M,Proto-Philippine
+"অসমীয়া (Assamese, as-IN)",living,15M,Sanskrit
+Hungarian (hu-HU),living,17M,Proto-Uralic
+"চাটগাঁইয়া (Chittagonian, ctg-BD)",living,16M,Sanskrit
+Madurese (mad),living,14M,Proto-Malayo-Polynesian
+"සිංහල භාෂාව (Sinhala, si-LK)",living,17M,Sanskrit
+"हरियाणवी (Haryanvi, bgc)",living,14M,Sanskrit
+Marwari (mwr),living,13M,Sanskrit
+"Bohemica (Czech, cs-CZ)",living,13M,Proto-Slavic
+"ελληνικά (Greek, el-GR)",living,13.5M,Ancient Greek
+"𑂧𑂏𑂯𑂲 (Magahi, mag)",living,21M,Sanskrit
+"छत्तीसगढ़ी (Chhattisgarhi, hne-IN)",living,18M,Sanskrit
+"беларуская (Belarusian, be-BY)",living,5M,Old East Slavic
+Zhuang (za-CN),living,16M,Proto-Tai
+Pashto (ps),living,60M,Old Iranian
+Somali (so-SO),living,22M,Proto-Cushitic
+Malagasy (mg-MG),living,25M,Proto-Malayo-Polynesian
+Kinyarwanda (rw),living,12M,Proto-Bantu
+Zulu (zu-ZA),living,27M,Proto-Bantu
+Bulgarian (bg-BG),living,8M,Old Church Slavonic
+Swedish (sv-SE),living,10M,Old Norse
+Oromo (om),living,37M,Proto-Cushitic
+Kazakh (kk),living,22M,Old Turkic
+Ilocano (ilo-PH),living,9M,Proto-Philippine
+Tatar (tt),living,5.3M,Old Turkic
+"Fulfulde (Fula, ff)",living,24M,Proto-Niger-Congo
+Uyghur (ug),living,10M,Old Turkic
+Haitian Creole (ht-HT),living,12M,French (France) (fr-FR)
+"ភាសាខ្មែរ (Khmer, km)",living,16M,Old Khmer
+Akan (ak),living,11M,Proto-Kwa
+Hiligaynon (hil-PH),living,9.1M,Proto-Philippine
+Kurdish (kmr),living,20M,Old Iranian
+Shona (sn),living,10M,Proto-Bantu
+"Polski (Polish, pl-PL)",living,40M,Proto-Slavic
+Yiddish (yi),living,1.5M,Middle High German
+"Català (Catalan, ca-AD)",living,89K,Old Occitan
+"Gaeilge (Irish, ga-IE)",living,72K,Old Irish
+Lombard (lmo),living,3.8M,Old Lombard
+"Norsk (Norwegian, no-NO)",living,4.3M,Old Norse
+"Suomi (Finnish, fi-FI)",living,5M,Proto-Uralic
+Tibetan (bo),living,6M,Old Tibetan
+"Монгол (Mongolian, mn-MN)",living,5M,Proto-Mongolic
+"ਪੰਜਾਬੀ (Punjabi, pan-IN)",living,31M,Prakrit
+Pennsylvania Dutch,living,300K,Palatine German
+"ᐃᓄᒃᑎᑐᑦ (Inuktitut, iu-CA)",living,38K,Proto-Eskimoan

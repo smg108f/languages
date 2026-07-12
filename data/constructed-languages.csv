@@ -1,0 +1,31 @@
+language,type,global-speakers,parent-language
+Goídelc (sga),constructed,0 (extinct),Hebrew (legendary) | Scythian (legendary)
+Enochian,constructed,500 (ritual use est.),Early Modern English (structural)
+Volapük (vo),constructed,20,English | German (Germany) (de-DE)
+Esperanto (eo),constructed,2M,Latin | French (France) (fr-FR) | German (Germany) (de-DE)
+Ido (io),constructed,500,Esperanto (eo)
+Interlingua (ia),constructed,1.5K,Latin | Italian (it) | French (France) (fr-FR)
+Interlingue (ie),constructed,50,Latin | German (Germany) (de-DE)
+Novial (nov),constructed,30,Ido (io) | Latin
+Loglan,constructed,50,Mandarin Chinese (cmn) | English | Russian (ru)
+Lojban (jbo),constructed,200,Loglan
+ROILA,constructed,N/A,None (engineered for robot speech recognition)
+Quenya (qya),constructed,1K,Finnish | Latin
+Sindarin (sjn),constructed,500,Welsh
+Klingon (tlh),constructed,30 (300K learners),None (a priori; Native American phonology influence)
+Dothraki,constructed,20 (1.2M learners),Arabic | Russian (ru) | Turkish (tr)
+High Valyrian,constructed,20 (900K learners),Latin
+Damin,constructed,0 (extinct),Lardil
+Toki Pona (tok),constructed,10K,English | Finnish | Esperanto (eo)
+Na'vi,constructed,500,None (a priori; Central Asian/Polynesian phonology influence)
+Láadan (ldn),constructed,50,English | Navajo
+Solresol,constructed,50,None (built from solfège syllables)
+Interslavic (isv),constructed,15K,Russian (ru) | Polish (pl) | Old Church Slavonic
+Slovio,constructed,100,Russian (ru) | Esperanto (eo)
+Lingua Franca Nova (lfn),constructed,1.5K,Spanish (Spain) (es-ES) | Portuguese (Portugal) (pt-PT) | French (France) (fr-FR)
+Glosa,constructed,200,Latin | Ancient Greek
+Kotava (avk),constructed,500,None (a priori; deliberately independent of natural languages)
+Sambahsa,constructed,300,Proto-Indo-European
+Talossan (tzl),constructed,30,French (France) (fr-FR) | Latin
+Brithenig (bzt),constructed,50,Latin | Welsh
+D'ni,constructed,200,None (a priori; invented for Myst mythology)
